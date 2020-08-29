@@ -1,5 +1,9 @@
 ![Banner](https://github.com/nick-zh/nick-zh/blob/master/jc.png)
 
+### Hi there 👋
+- 🔭 I’m currently working on event streaming architecture
+- 🌱 I’m currently learning PHP extension building
+
 <!--
 **nick-zh/nick-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
