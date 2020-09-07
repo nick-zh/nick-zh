@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on event streaming architecture
 - 🌱 I’m currently learning PHP extension building
 
+If you want to support my work other than through a sponsorship (maybe just one time),  
+help me plant trees [here](https://ecologi.com/nick-zh) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
+
 <!--
 **nick-zh/nick-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
