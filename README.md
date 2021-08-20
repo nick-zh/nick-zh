@@ -1,4 +1,6 @@
+<!--
 ![Banner](https://github.com/nick-zh/nick-zh/blob/master/jc.png)
+-->
 
 ### Hi there 👋
 - 🔭 I’m currently working on event streaming architecture
