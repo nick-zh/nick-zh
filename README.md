@@ -9,6 +9,10 @@
 If you want to support my work other than through a sponsorship (maybe just one time),  
 this is my [wishlist](https://amzn.to/3tSIPmJ) or help me plant trees [here](https://ecologi.com/nick-zh?r=5f563ec155e2050019f6daac) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
 
+
+![Nikazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-zh&count_private=true&show_icons=true&include_all_commits=true)
+
+
 <!--
 **nick-zh/nick-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
