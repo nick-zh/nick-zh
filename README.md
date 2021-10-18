@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on event streaming architecture
-- 🌱 I’m currently learning PHP extension building
+- 🌱 I’m currently learning PHP extension building and JS
 
 If you want to support my work other than through a sponsorship (maybe just one time),  
 this is my [wishlist](https://amzn.to/3tSIPmJ) or help me plant trees [here](https://ecologi.com/nick-zh?r=5f563ec155e2050019f6daac) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
