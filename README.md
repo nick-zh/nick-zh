@@ -8,9 +8,6 @@
 
 PS: Help me plant trees [here](https://ecologi.com/nick-zh?r=5f563ec155e2050019f6daac) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
 
-![Nikazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-zh&count_private=true&show_icons=true&include_all_commits=true)
-
-
 <!--
 ![Nikazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-zh&count_private=true&show_icons=true&include_all_commits=true)
 
