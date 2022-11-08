@@ -1,13 +1,14 @@
-<!--
-![Banner](https://github.com/nick-zh/nick-zh/blob/master/jc.png)
--->
+![Banner](https://github.com/nick-zh/nick-zh/blob/main/banner.jpg)
 
 ### Hi there 👋
-- 🔭 I’m currently working on serverless event streaming architecture
-If you want to support my work other than through a sponsorship (maybe just one time),  
-this is my [wishlist](https://amzn.to/3tSIPmJ) or help me plant trees [here](https://ecologi.com/nick-zh?r=5f563ec155e2050019f6daac) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
+- 🔍 I am building the future of jobsearch with [James Job](https://jamesjob.com)
+- 🔭 Working on serverless event streaming architecture
+- 💡 Favourite technology: Apache Kafka hosted on [Aiven](https://aiven.io/) 🦀 
+- 🍜 powered by noodles
 
+PS: Help me plant trees [here](https://ecologi.com/nick-zh?r=5f563ec155e2050019f6daac) :pray: :evergreen_tree: :deciduous_tree: :evergreen_tree: :deciduous_tree:
 
+![Nikazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-zh&count_private=true&show_icons=true&include_all_commits=true)
 
 
 <!--
