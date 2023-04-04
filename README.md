@@ -1,7 +1,9 @@
+<!--
 ![Banner](https://github.com/nick-zh/nick-zh/blob/main/banner.jpg)
+-->
 
 ### Hi there, I'm Nick <img src="https://github.com/nick-zh/nick-zh/blob/main/coding-cat.gif" width="30">
-- 🔍 I am building the future of job search with [James Job](https://jamesjob.com)
+- 🔍 I am building the future of job search
 - 🔭 Working on serverless event streaming architecture
 - 💡 Favourite technology: Apache Kafka hosted on [Aiven](https://aiven.io/) 🦀 
 - 🍜 powered by noodles
